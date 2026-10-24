@@ -1,0 +1,7 @@
+Usuário e senha do Banco de Dados
+Usuário: root
+Senha: root
+
+Acesso ao sistema de pagamento
+Usuário: admin
+Senha: pagode123
